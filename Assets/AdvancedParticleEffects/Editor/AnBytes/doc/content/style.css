@@ -1,0 +1,17 @@
+body {	font-family: Arial;
+	font-size: 12px;
+}
+table {
+	font-family: Arial;
+	font-size: 12px;
+}
+img {	border: 0px;
+}
+a {	color: #042342;
+	text-decoration: underline;
+}
+
+a:hover {
+	color: #042342;
+	text-decoration: none;
+}
